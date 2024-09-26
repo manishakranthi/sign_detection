@@ -9,4 +9,3 @@ tqdm==4.66.1
 imutils==0.5.4
 streamlit==1.25.0
 Pillow==10.0.1
-python3-distutils
